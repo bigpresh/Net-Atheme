@@ -1,0 +1,48 @@
+Net-Atheme
+
+Provides an easy and sane way to interact with the Atheme IRC services
+package via its XMLRPC interface.
+
+Allows you to perform various actions via NickServ/ChanServ/OperServ.
+
+Atheme is the IRC services package used on several networks, including
+Freenode.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+	perl Makefile.PL
+	make
+	make test
+	make install
+
+SUPPORT AND DOCUMENTATION
+
+After installing, you can find documentation for this module with the
+perldoc command.
+
+    perldoc Net::Atheme
+
+You can also look for information at:
+
+    RT, CPAN's request tracker
+        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Net-Atheme
+
+    AnnoCPAN, Annotated CPAN documentation
+        http://annocpan.org/dist/Net-Atheme
+
+    CPAN Ratings
+        http://cpanratings.perl.org/d/Net-Atheme
+
+    Search CPAN
+        http://search.cpan.org/dist/Net-Atheme/
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2009 David Precious
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
+
