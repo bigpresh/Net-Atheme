@@ -1,5 +1,7 @@
 package Net::Atheme;
 
+# $Id$
+
 use warnings;
 use strict;
 use Carp;
